@@ -1,2 +1,2 @@
 # TimtabUMS
-UMS Timetable Maker to ease student for timetable creation every semester.
+UMS Timetable Maker to ease student with timetable creation every semester.
